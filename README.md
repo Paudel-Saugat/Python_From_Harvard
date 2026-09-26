@@ -14,7 +14,7 @@ Each week gets its own folder, split into the official problem set and an extra 
 
 
 ## 🚀 Progress
-- [ ] Week 1 — Functions & Variables
+- [x] Week 1 — Functions & Variables
 - [ ] Week 2 — Conditionals
 - [ ] Week 3 — Loops
 - [ ] Week 4 — Exceptions
